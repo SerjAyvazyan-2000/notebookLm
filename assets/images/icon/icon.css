@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+.icon {
+  display: inline-block;
+  height: 1em;
+  width: 1em;
+  mask-size: contain;
+  -webkit-mask-size: contain;
+  mask-repeat: no-repeat;
+  -webkit-mask-repeat: no-repeat;
+  mask-position: center;
+  -webkit-mask-position: center;
+}
+.icon-stash_arrow-up {
+  mask-image: url(stash_arrow-up.svg);
+  -webkit-mask-image: url(stash_arrow-up.svg);
+}
+.icon-mAdd{
+    mask-image: url(mAdd.svg);
+  -webkit-mask-image: url(mAdd.svg);
+}
+.icon-outline{
+      mask-image: url(outline.svg);
+  -webkit-mask-image: url(outline.svg);
+}
+.icon-lightning{
+        mask-image: url(lightning.svg);
+  -webkit-mask-image: url(lightning.svg);
+}
+.icon-school{
+        mask-image: url(school.svg);
+  -webkit-mask-image: url(school.svg);
+}
+.icon-ultimate{
+        mask-image: url(ultimate.svg);
+  -webkit-mask-image: url(ultimate.svg);
+}
+.icon-idea{
+        mask-image: url(idea.svg);
+  -webkit-mask-image: url(idea.svg);
+}
